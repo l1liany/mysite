@@ -39,7 +39,7 @@ export default function Contact() {
 
             <div className="flex gap-4 mt-12">
               {[
-                { icon: Github, href: "#" },
+                { icon: Github, href: "https://github.com/l1liany" },
                 { icon: Linkedin, href: "#" },
                 { icon: Twitter, href: "#" },
               ].map((social, i) => (
